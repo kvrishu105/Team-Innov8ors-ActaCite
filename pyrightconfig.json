@@ -1,0 +1,7 @@
+{
+  "pythonVersion": "3.12",
+  "venvPath": ".",
+  "venv": ".venv",
+  "extraPaths": [".", ".venv/lib/python3.12/site-packages"],
+  "include": ["app.py", "start.py", "actacite", "tests"]
+}
